@@ -1,0 +1,11 @@
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\bin\Debug\netstandard2.0\FontawesomeControls.deps.json
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\bin\Debug\netstandard2.0\FontawesomeControls.dll
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\bin\Debug\netstandard2.0\FontawesomeControls.pdb
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.csproj.CoreCompileInputs.cache
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.App.xaml.g.cs
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.MainPage.xaml.g.cs
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.AssemblyInfoInputs.cache
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.AssemblyInfo.cs
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.dll
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.pdb
+E:\Projects\FontawesomeControls\FontawesomeControls\FontawesomeControls\obj\Debug\netstandard2.0\FontawesomeControls.csprojResolveAssemblyReference.cache

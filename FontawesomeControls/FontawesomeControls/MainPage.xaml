@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FontawesomeControls;assembly=FontawesomeControls"
+             x:Class="FontawesomeControls.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="LabelIcomoonStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#1E1E1E" />
+                <Setter Property="FontSize" Value="30" />
+                <Setter Property="FontFamily" Value="Icomoon" />
+                <Setter Property="HeightRequest" Value="70" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+                <Setter Property="VerticalTextAlignment" Value="Center" />
+            </Style>
+
+            <Style x:Key="ButtonNavStyle" TargetType="Button">
+                <Setter Property="TextColor" Value="#1E1E1E" />
+                <Setter Property="FontSize" Value="30" />
+                <Setter Property="FontFamily" Value="Icomoon" />
+                <Setter Property="HeightRequest" Value="70" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Padding="10" Spacing="20" Orientation="Vertical">
+        <local:FontawesomeLabel Text="&#xf26e;" Style="{StaticResource LabelIcomoonStyle}" HorizontalOptions ="Start" />
+        <local:FontawesomeButton Text="&#xf1e5;" Style="{StaticResource ButtonNavStyle}" HorizontalOptions ="End" />
+    </StackLayout>
+</ContentPage>
